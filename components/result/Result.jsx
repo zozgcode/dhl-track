@@ -7,7 +7,7 @@ export default function Result({ trackingResult }) {
   return (
     <div className="fixed bottom-0 left-0 right-0 top-0 z-30 h-full w-full overflow-auto bg-white">
       <div className="mx-auto max-w-[1000px] pt-10">
-        <div className="flex items-center justify-between">
+        <div className="flex items-center px-4 justify-between">
             <a href="/">
             <Image src={dhlLogo} width={150} height={150} alt="logo" />
             </a>

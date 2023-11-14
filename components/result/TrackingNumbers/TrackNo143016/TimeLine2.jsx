@@ -2,7 +2,7 @@ export default function TimeLine2() {
   return (
     <div className="mb-20">
       <div style={{ marginLeft: 10 }}>
-        <div className="wrapper">
+        <div className="wrapper px-3 sm:px-0">
           <ul className="StepProgress">
             <div className="StepProgress-item is-done">
               <div className="ml-5">
