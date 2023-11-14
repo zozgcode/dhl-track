@@ -6,33 +6,33 @@ export default function TimeLine2() {
           <ul className="StepProgress">
             <div className="StepProgress-item is-done">
               <div className="ml-5">
-                <h3 className="flex items-center mb-1 text-[16px] font-semibold text-[#333333]">
+                <h3 className="mb-1 flex items-center text-[16px] font-semibold text-[#333333]">
                   PACKAGE RECEIVED BY DHL
                 </h3>
-                <p className="flex items-center mb-1 text-sm font-semibold text-[#808080]">
+                <p className="mb-1 flex items-center text-sm font-semibold text-[#808080]">
                   Boston, MA. US
                 </p>
-                <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
-                  October 27, 2023
+                <time className="mb-2 block text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
+                  November 14, 2023
                 </time>
               </div>
             </div>
             <div className="StepProgress-item is-done">
               <div className="ml-5">
-                <h3 className="flex items-center mb-1 text-[16px] font-semibold text-[#333333]">
+                <h3 className="mb-1 flex items-center text-[16px] font-semibold text-[#333333]">
                   IN TRANSIT
                 </h3>
-                <p className="flex items-center mb-1 text-sm font-semibold text-[#808080]">
+                <p className="mb-1 flex items-center text-sm font-semibold text-[#808080]">
                   San Francisco, CA
                 </p>
-                <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
-                  October 27, 2023
+                <time className="mb-2 block text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
+                  November 14, 2023
                 </time>
               </div>
             </div>
             <div className="StepProgress-item current">
               <div className="ml-5 h-[70px]">
-                <h3 className="flex items-center mb-1 text-[16px] font-semibold text-[#333333]">
+                <h3 className="mb-1 flex items-center text-[16px] font-semibold text-[#333333]">
                   OUT FOR DELIVERY
                 </h3>
                 {/* <p className="flex items-center mb-1 text-sm font-semibold text-[#808080]">
@@ -45,7 +45,7 @@ export default function TimeLine2() {
             </div>
             <div className="StepProgress-item current">
               <div className="ml-5">
-                <h3 className="flex items-center mb-1 text-[16px] font-semibold text-[#333333]">
+                <h3 className="mb-1 flex items-center text-[16px] font-semibold text-[#333333]">
                   DELIVERED
                 </h3>
                 {/* <p className="flex items-center mb-1 text-sm font-semibold text-[#808080]">

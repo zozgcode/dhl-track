@@ -51,7 +51,7 @@ export const TrackingShippingInfo2 = [
     },
     {
       title: "Pickup Date",
-      content: "October 27, 2023",
+      content: "November 13, 2023",
     },
     {
       title: "Pickup Time",
@@ -64,7 +64,7 @@ export const TrackingShippingInfo2 = [
     },
     {
       title: "Expected Delivery Date",
-      content: "11/13/2023",
+      content: "November 14, 2023",
       bgChange: true,
     },
     {
