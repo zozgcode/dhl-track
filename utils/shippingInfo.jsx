@@ -1,12 +1,12 @@
 export const TrackingShippingInfo2 = [
     {
       title: "Courier",
-      content: "FedEx",
+      content: "DHL",
       bgChange: true,
     },
     {
       title: "Packages",
-      content: "Cheque",
+      content: "Briefcase",
     },
     {
       title: "Mode",
@@ -15,7 +15,7 @@ export const TrackingShippingInfo2 = [
     },
     {
       title: "Product",
-      content: "Cheque",
+      content: "Briefcase",
     },
     {
       title: "Quantity",
@@ -28,7 +28,7 @@ export const TrackingShippingInfo2 = [
     },
     {
       title: "Carrier",
-      content: "FedEx",
+      content: "DHL",
       bgChange: true,
     },
     {
@@ -42,11 +42,11 @@ export const TrackingShippingInfo2 = [
     },
     {
       title: "Origin",
-      content: "49 Bentwood Ln Aliso Viejo CA, USA",
+      content: "962 OLD STAGE RD CENTERVILLE, MA 02632",
     },
     {
       title: "Destination",
-      content: "49 Bentwood Ln Aliso Viejo CA, USA",
+      content: "962 OLD STAGE RD CENTERVILLE, MA 02632",
       bgChange: true,
     },
     {
@@ -64,7 +64,7 @@ export const TrackingShippingInfo2 = [
     },
     {
       title: "Expected Delivery Date",
-      content: "October 28, 2023",
+      content: "11/13/2023",
       bgChange: true,
     },
     {

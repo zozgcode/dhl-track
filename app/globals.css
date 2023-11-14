@@ -4,7 +4,7 @@
 .header {
   background: linear-gradient(90deg, #fc0 0, #fc0 48%, #ffe57f 70%, #fff0b2);
 }
-// tracking progress
+/* tracking progress */
 .wrapper {
   max-width: 500px;
   font-family: "Helvetica";
@@ -52,7 +52,7 @@
   background-color: #fff;
 }
 .StepProgress-item.is-done::before {
-  border-left: 5px solid #462895;
+  border-left: 5px solid #D40511;
 }
 .StepProgress-item.is-done::after {
   content: "✔";
@@ -64,11 +64,11 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  border: 1px solid #462895;
-  background-color: #462895;
+  border: 1px solid #D40511;
+  background-color: #D40511;
 }
 .StepProgress-item.current::before {
-  border-left: 5px solid #462895;
+  border-left: 5px solid #D40511;
 }
 .StepProgress-item.current::after {
   /* content: counter(list); */
@@ -79,8 +79,8 @@
   left: -50px;
   font-size: 14px;
   text-align: center;
-  color: #462895;
-  border: 2px solid #462895;
+  color: #D40511;
+  border: 2px solid #D40511;
   background-color: white;
 }
 .StepProgress strong {
